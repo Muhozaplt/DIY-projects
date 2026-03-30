@@ -98,17 +98,9 @@ The RAK4631 can be flashed on the board from: https://flasher.meshtastic.org/. A
 2. Press firmly and evenly until the connector clicks into place.
 3. Secure with the two small M1.2 screws included with the base board.
 
-```
-RAK19007 Base Board
-┌─────────────────────────────┐
-│  [ WisBlock Core Slot ]     │  ← RAK4631 goes here
-│                             │
-│  [Sensor] [Sensor]          │
-│  [Sensor] [Sensor]          │
-│                    [IO]     │
-│  [USB-C]  [Battery JST]     │
-└─────────────────────────────┘
-```
+At this stage your meshtstic should look like this: 
+
+![image](Images/meshtastic.jpg)
 
 ### Step 3 — Attach the RAK1921 OLED Display
 
