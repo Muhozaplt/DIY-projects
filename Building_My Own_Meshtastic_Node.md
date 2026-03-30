@@ -57,7 +57,7 @@ Key features:
 
 - **SoC:** Nordic nRF52840 (ARM Cortex-M4F @ 64 MHz)
 - **LoRa Chip:** Semtech SX1262
-- **Firmware:** Pre-flashed with Meshtastic
+- **Firmware:** cane be flashed from the web [here](https://flasher.meshtastic.org/) (use chrome or edge browser for this) 
 - **Bluetooth:** BLE 5.0 (for phone app connectivity)
 - **Interface:** WisBlock IO connector (plugs directly into base board)
 
