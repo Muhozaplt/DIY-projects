@@ -88,7 +88,7 @@ Key features:
 
 ### Step 1 — Prepare the RAK4631 Core Module
 
-The RAK4631 comes pre-flashed with Meshtastic firmware from RAKwireless, so no initial flashing is required. Simply verify the module is seated correctly before mounting.
+The RAK4631 can be flashed on the board from: https://flasher.meshtastic.org/. And verify the module is seated correctly before mounting.
 
 > ⚠️ **Handle the RAK4631 with care.** Avoid touching the antenna pads or U.FL connector pins.
 
